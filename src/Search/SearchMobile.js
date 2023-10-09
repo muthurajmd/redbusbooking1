@@ -15,10 +15,10 @@ export const SearchMobile = () =>{
         ({task})=>task
     )   
 
-    let [available,setavailable] = useState(true)      
+    // let [available,setavailable] = useState(true)      
     let [bording1,setbording1] = useState(false)
     
-    let [Droping,setDroping] = useState(false)         
+    // let [Droping,setDroping] = useState(false)         
     let [arr,setarr] = useState([])
     let [viewarr,setviewarr] = useState([])
     let [viewseats,setviewseats] = useState(true)
