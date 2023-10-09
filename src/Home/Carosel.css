@@ -1,0 +1,223 @@
+.slick-prev:before,.slick-next:before{
+    color:white !important;
+    /* background-color: white; */
+    font-size: 35px;
+    /* z-index: 990; */
+}
+.slick-prev{
+    left:10px !important;
+    z-index: 990;
+}
+.slick-next{
+    right:40px;
+    z-index: 991;
+}
+
+.first{
+    display: flex;
+    border-radius: 1rem;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(71.04deg, rgb(12, 57, 139) -6.92%, rgb(62, 118, 216) 109.43%);
+    padding: 1rem;
+    gap: 1rem;
+    cursor: pointer;
+}
+
+.super{
+    display: flex;
+    border-radius: 1rem;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(71.04deg, rgb(39, 57, 101) -6.92%, rgb(80, 210, 149) 109.43%);
+    padding: 1rem;
+    gap: 1rem;
+    cursor: pointer;
+}
+.bus200{
+    display: flex;
+    border-radius: 1rem;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(71.04deg, rgb(72, 0, 4) -6.92%, rgb(216, 78, 85) 109.43%);
+    padding: 1rem;
+    gap: 1rem;
+    cursor: pointer;
+}
+.asprtc{
+    display: flex;
+    border-radius: 1rem;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(71.04deg, rgb(206, 119, 0) -6.92%, rgb(255, 194, 111) 109.43%);
+    padding: 1rem;
+    gap: 1rem;
+    cursor: pointer;
+
+}
+.upsrtc{
+    display: flex;
+    border-radius: 1rem;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(71.04deg, rgb(60, 16, 83) -6.92%, rgb(173, 83, 137) 109.43%);
+    padding: 1rem;
+    gap: 1rem;
+    cursor: pointer;
+
+}
+.rbtrib{
+    display: flex;
+    border-radius: 1rem;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(71.04deg, rgb(60, 16, 83) -6.92%, rgb(173, 83, 137) 109.43%);
+    padding: 1rem;
+    gap: 1rem;
+    cursor: pointer;
+
+}
+.trend{
+    width: 998px;
+    padding: 1rem;
+    background: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 2px 25px;
+    border-radius: 32px;
+   position: absolute;
+    top: 429px;
+    left: 89px;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.trend123{
+    /* width: 998px; */
+    padding: 1rem;
+    background: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 2px 25px;
+    border-radius: 32px;
+   /* position: absolute;
+    top: 429px;
+    left: 89px;
+    display: flex;
+    flex-direction: column; */
+    gap: 2rem;
+}
+
+@media(max-width:576px){
+    .first{
+        display: flex;
+        border-radius: 1rem;
+        color: rgb(255, 255, 255);
+        background-image: linear-gradient(71.04deg, rgb(12, 57, 139) -6.92%, rgb(62, 118, 216) 109.43%);
+        padding: 0.35rem;
+        gap: 1rem;
+        cursor: pointer;
+    }
+    
+    .super{
+        display: flex;
+        border-radius: 1rem;
+        color: rgb(255, 255, 255);
+        background-image: linear-gradient(71.04deg, rgb(39, 57, 101) -6.92%, rgb(80, 210, 149) 109.43%);
+        padding: 0.35rem;
+        gap: 1rem;
+        cursor: pointer;
+    }
+    .bus200{
+        display: flex;
+        border-radius: 1rem;
+        color: rgb(255, 255, 255);
+        background-image: linear-gradient(71.04deg, rgb(72, 0, 4) -6.92%, rgb(216, 78, 85) 109.43%);
+        padding: 0.35rem;
+        gap: 1rem;
+        cursor: pointer;
+    }
+    .asprtc{
+        display: flex;
+        border-radius: 1rem;
+        color: rgb(255, 255, 255);
+        background-image: linear-gradient(71.04deg, rgb(206, 119, 0) -6.92%, rgb(255, 194, 111) 109.43%);
+        padding: 0.35rem;
+        gap: 1rem;
+        cursor: pointer;
+    
+    }
+    .upsrtc{
+        display: flex;
+        border-radius: 1rem;
+        color: rgb(255, 255, 255);
+        background-image: linear-gradient(71.04deg, rgb(60, 16, 83) -6.92%, rgb(173, 83, 137) 109.43%);
+        padding: 0.35rem;
+        gap: 1rem;
+        cursor: pointer;
+    
+    }
+    .rbtrib{
+        display: flex;
+        border-radius: 1rem;
+        color: rgb(255, 255, 255);
+        background-image: linear-gradient(71.04deg, rgb(60, 16, 83) -6.92%, rgb(173, 83, 137) 109.43%);
+        padding: 0.35rem;
+        gap: 1rem;
+        cursor: pointer;
+    
+    }
+
+}
+@media(min-width:768px) and (max-width:991px){
+    .first{
+        display: flex;
+        border-radius: 1rem;
+        color: rgb(255, 255, 255);
+        background-image: linear-gradient(71.04deg, rgb(12, 57, 139) -6.92%, rgb(62, 118, 216) 109.43%);
+        padding: 0.5rem;
+        gap: 1rem;
+        cursor: pointer;
+    }
+    
+    .super{
+        display: flex;
+        border-radius: 1rem;
+        color: rgb(255, 255, 255);
+        background-image: linear-gradient(71.04deg, rgb(39, 57, 101) -6.92%, rgb(80, 210, 149) 109.43%);
+        padding: 0.5rem;
+        gap: 1rem;
+        cursor: pointer;
+    }
+    .bus200{
+        display: flex;
+        border-radius: 1rem;
+        color: rgb(255, 255, 255);
+        background-image: linear-gradient(71.04deg, rgb(72, 0, 4) -6.92%, rgb(216, 78, 85) 109.43%);
+        padding: 0.5rem;
+        gap: 1rem;
+        cursor: pointer;
+    }
+    .asprtc{
+        display: flex;
+        border-radius: 1rem;
+        color: rgb(255, 255, 255);
+        background-image: linear-gradient(71.04deg, rgb(206, 119, 0) -6.92%, rgb(255, 194, 111) 109.43%);
+        padding: 0.5rem;
+        gap: 1rem;
+        cursor: pointer;
+    
+    }
+    .upsrtc{
+        display: flex;
+        border-radius: 1rem;
+        color: rgb(255, 255, 255);
+        background-image: linear-gradient(71.04deg, rgb(60, 16, 83) -6.92%, rgb(173, 83, 137) 109.43%);
+        padding: 0.5rem;
+        gap: 1rem;
+        cursor: pointer;
+    
+    }
+    .rbtrib{
+        display: flex;
+        border-radius: 1rem;
+        color: rgb(255, 255, 255);
+        background-image: linear-gradient(71.04deg, rgb(60, 16, 83) -6.92%, rgb(173, 83, 137) 109.43%);
+        padding: 0.5rem;
+        gap: 1rem;
+        cursor: pointer;
+    
+    }
+
+
+}

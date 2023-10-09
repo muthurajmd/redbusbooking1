@@ -1,0 +1,45 @@
+.css-o4b71y-MuiAccordionSummary-content{
+    justify-content: end;
+}
+.css-yw020d-MuiAccordionSummary-expandIconWrapper{
+    display: none !important;
+}
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root{
+    box-shadow: none !important;
+}
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root:before{
+    opacity: -2!important;
+}
+.but-continue{
+    display: inline-block;
+    padding: 6px 16px 7px;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 400;
+    overflow: hidden;
+    position: relative;
+    text-decoration: none;
+    transition: .1s;
+    border: none;
+    text-align: center;
+    background-color: #d84e55;
+    color: #fff;
+}
+.but-continueMobile{
+    display: block;
+    padding: 6px 6px 7px;
+    margin-top: 10px;
+    // text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 400;
+    overflow: hidden;
+    position: relative;
+    text-decoration: none;
+    transition: .1s;
+    border: none;
+    text-align: center;
+    width: 100%;
+    background-color: #d84e55;
+    color: #fff;
+}
+
