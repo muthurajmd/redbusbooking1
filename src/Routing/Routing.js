@@ -7,7 +7,7 @@ import { SearchHome } from "../Search/SearchHome";
 
 const Routing =()=>{
     return(
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={<Home/>}> </Route>
         <Route path="/search" element={<SearchHome/>}> </Route>
