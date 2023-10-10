@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/muthurajmd/redbusbooking1.git/static/css/main.de8ef0b5.css",
-    "main.js": "/muthurajmd/redbusbooking1.git/static/js/main.5d33eccd.js",
-    "static/js/787.718d1bd2.chunk.js": "/muthurajmd/redbusbooking1.git/static/js/787.718d1bd2.chunk.js",
-    "static/media/slick.svg": "/muthurajmd/redbusbooking1.git/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/muthurajmd/redbusbooking1.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/muthurajmd/redbusbooking1.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/muthurajmd/redbusbooking1.git/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/muthurajmd/redbusbooking1.git/index.html",
-    "main.de8ef0b5.css.map": "/muthurajmd/redbusbooking1.git/static/css/main.de8ef0b5.css.map",
-    "main.5d33eccd.js.map": "/muthurajmd/redbusbooking1.git/static/js/main.5d33eccd.js.map",
-    "787.718d1bd2.chunk.js.map": "/muthurajmd/redbusbooking1.git/static/js/787.718d1bd2.chunk.js.map"
+    "main.css": "/redbusbooking1/static/css/main.f2ad36ec.css",
+    "main.js": "/redbusbooking1/static/js/main.63132b18.js",
+    "static/js/787.718d1bd2.chunk.js": "/redbusbooking1/static/js/787.718d1bd2.chunk.js",
+    "static/media/slick.svg": "/redbusbooking1/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/redbusbooking1/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/redbusbooking1/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/redbusbooking1/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/redbusbooking1/index.html",
+    "main.f2ad36ec.css.map": "/redbusbooking1/static/css/main.f2ad36ec.css.map",
+    "main.63132b18.js.map": "/redbusbooking1/static/js/main.63132b18.js.map",
+    "787.718d1bd2.chunk.js.map": "/redbusbooking1/static/js/787.718d1bd2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de8ef0b5.css",
-    "static/js/main.5d33eccd.js"
+    "static/css/main.f2ad36ec.css",
+    "static/js/main.63132b18.js"
   ]
 }
